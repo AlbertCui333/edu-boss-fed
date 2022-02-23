@@ -15,7 +15,7 @@ import Vue from 'vue'
     a: string
     b: number
   }
-  interface Foo {a: string; b: number}
+  interface Fo {a: string; b: number}
 
 // 这种类的方式,暂时还没有定版, 所以不使用
 // import Component from 'vue-class-component'

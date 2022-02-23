@@ -23,6 +23,7 @@ module.exports = {
         "requireLast": true
       }
     }],
+    "no-unused-vars": "off",
     '@typescript-eslint/no-unused-vars': ["error"]
   }
 }
